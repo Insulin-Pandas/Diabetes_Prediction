@@ -1,7 +1,7 @@
 # Diabetes_Prediction
 Project 4 - Predicting diabetes! 
 
-Project Team Members: Jenny Bedwell, Sheyla Perez, Hector Custodio, Andres Almaraz, Subodh Chintawwar, Gary Groscost
+Project Team Members: Jenny Bedwell, Sheyla Perez, Hector Custodio, Andres Almaraz, Subodh Chintawar, Gary Groscost
 
 Introduction 
 
