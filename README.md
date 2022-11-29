@@ -7,14 +7,14 @@ Introduction
 
 Diabetes is a chronic health condition that affects how your body turns food into energy. It is also among the most prevalent chronic diseases in the United States, impacting millions of Americans each year and exerting a significant financial burden on the economy. Marshmellow le Panda is our classes unoffical mascot, and the subject for the story of our data today. This project's overall goal is to utilize the power of machine learning in order to provide a more accurate prediction for detecting diabetes. Diabetes is generally characterized by either the body not making enough insulin or being unable to use the insulin that is made as effectively as needed. We used the CDC’s Behavioral Risk Factor Surveillance System data set from 2015 which surveyed over 250,000 patients for diabetes screening. 
 
-Tools Utilized
-Python Pandas
-Python Matplotlib
-SQL Database (Postgres)/ AWS
-Tableau
-HTML
-Colab
-Machine Learning
+Tools Utilized:
+- Python Pandas
+- Python Matplotlib
+- SQL Database (Postgres)/ AWS
+- Tableau
+- HTML
+- Colab
+- Machine Learning
 
 Source
 
@@ -29,7 +29,7 @@ In our supervised learning models we used a random forest classifier model featu
 With deep learning we started with three hidden layers, but ened with five in total. We started with using relu for activations and sigmoid for our output. We tested with using the most imporatnt columns which gave worse results than when using all of our data coloumns. After testing several batch sizes to find what is the most accurate, the default batch size at 32 was proven to be the best. We attempted to increase our nodes, but that caused overfitting to the models. To prevent overfitting we used val_losses and dropout layers, and changed the optimizer learning rate. 
 
 Diagnosis 
-We were able to diagnose Marhmellow Le Panda with our random forest class model that he is not diabetic. 
+- We were able to diagnose Marhmellow Le Panda with our random forest class model that he is not diabetic. 
 
 Please visit our website! 
 https://insulin-pandas.github.io/Diabetes_Prediction/
