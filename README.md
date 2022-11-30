@@ -38,4 +38,5 @@ Please vist our Dashboard!
 https://public.tableau.com/app/profile/sheyla4351/viz/DiabetesDataSet_16690730480460/DiabetesDataStory
 
 
-
+Please check out our PowerPoint!
+https://www.canva.com/design/DAFSoK4pBTk/64Er5bM9ZU00IAMaQzgnug/view?utm_content=DAFSoK4pBTk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
